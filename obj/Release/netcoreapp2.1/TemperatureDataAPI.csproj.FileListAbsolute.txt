@@ -1,0 +1,13 @@
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\TemperatureDataAPI.deps.json
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\TemperatureDataAPI.runtimeconfig.json
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\TemperatureDataAPI.runtimeconfig.dev.json
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\TemperatureDataAPI.dll
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\TemperatureDataAPI.pdb
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.csproj.CoreCompileInputs.cache
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.RazorAssemblyInfo.cache
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.RazorAssemblyInfo.cs
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.AssemblyInfoInputs.cache
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.AssemblyInfo.cs
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.RazorTargetAssemblyInfo.cache
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.dll
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.pdb
