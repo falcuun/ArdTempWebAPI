@@ -19,16 +19,14 @@ namespace TemperatureDataAPI.Controllers
             return new string[] { "value1", "value2" };
         }
 
+        /*
         // GET api/<controller>/5
         [HttpGet("{id}&{query}")]
         public ActionResult Get(int id, string query)
-        {
-            Temperature temp = new Temperature();
-            temp.id = id;
-            temp.value = query;
-            
-            return new JsonResult(temp);
+        {            
+            return new JsonResult(query);
         }
+        */
 
         // POST api/<controller>
         [HttpPost]

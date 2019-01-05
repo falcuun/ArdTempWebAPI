@@ -8,6 +8,10 @@ namespace TemperatureDataAPI.Models
     public class Temperature
     {
         public int id { set; get; }
-        public string value { set; get; }
+        public float pressure { set; get; }
+        public float seaLevelPressure { set; get; }
+        public float calculatedAltitude { set; get; }
+        public float temperature { set; get; }
+
     }
 }
