@@ -15,19 +15,25 @@ namespace TemperatureDataAPI.Controllers
     {
         // GET: api/<controller>
         [HttpGet]
-        public string Get()
+        public Temperature Get()
         {
             return getData();
         }
 
-        private string getData()
+        private Temperature getData()
         {
             string line;
-            StreamReader file =
-                new StreamReader("C:\\Arduino.txt");
+            Temperature temp = new Temperature();
+            StreamReader file = new StreamReader(Startup.file_path);
             line = file.ReadLine();
             file.Close();
-            return line;
+            string[] paramet = line.Split('~');
+            temp.pressure = float.Parse(paramet[0]);
+            temp.seaLevelPressure = float.Parse(paramet[1]);
+            temp.calculatedAltitude = float.Parse(paramet[2]);
+            temp.temperature = float.Parse(paramet[3]);
+
+            return temp;
         }
         /*
         // GET api/<controller>/5
