@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using TemperatureDataAPI.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.IO;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -14,11 +15,20 @@ namespace TemperatureDataAPI.Controllers
     {
         // GET: api/<controller>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public string Get()
         {
-            return new string[] { "value1", "value2" };
+            return getData();
         }
 
+        private string getData()
+        {
+            string line;
+            StreamReader file =
+                new StreamReader("C:\\Arduino.txt");
+            line = file.ReadLine();
+            file.Close();
+            return line;
+        }
         /*
         // GET api/<controller>/5
         [HttpGet("{id}&{query}")]
