@@ -1,0 +1,17 @@
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.exe
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.deps.json
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.runtimeconfig.json
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.runtimeconfig.dev.json
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.dll
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\bin\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.pdb
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.csprojAssemblyReference.cache
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.csproj.CoreCompileInputs.cache
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.RazorAssemblyInfo.cache
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.RazorAssemblyInfo.cs
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.AssemblyInfoInputs.cache
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.AssemblyInfo.cs
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.RazorTargetAssemblyInfo.cache
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.dll
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\win-x64\TemperatureDataAPI.pdb

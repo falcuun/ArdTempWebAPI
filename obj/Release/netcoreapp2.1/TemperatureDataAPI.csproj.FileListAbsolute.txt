@@ -11,3 +11,4 @@ C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\ne
 C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.RazorTargetAssemblyInfo.cache
 C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.dll
 C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.pdb
+C:\Users\falcu\source\repos\TemperatureDataAPI\TemperatureDataAPI\obj\Release\netcoreapp2.1\TemperatureDataAPI.csprojAssemblyReference.cache

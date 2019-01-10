@@ -35,14 +35,32 @@ namespace TemperatureDataAPI.Controllers
 
             return temp;
         }
-        /*
+        
         // GET api/<controller>/5
-        [HttpGet("{id}&{query}")]
-        public ActionResult Get(int id, string query)
-        {            
-            return new JsonResult(query);
+        [HttpGet("{field}")]
+        public ActionResult<float> Get(int field)
+        {
+            string line;
+            Temperature temp = new Temperature();
+            StreamReader file = new StreamReader(Startup.file_path);
+            line = file.ReadLine();
+            file.Close();
+            string[] paramet = line.Split('~');
+            temp.pressure = float.Parse(paramet[0]);
+            temp.seaLevelPressure = float.Parse(paramet[1]);
+            temp.calculatedAltitude = float.Parse(paramet[2]);
+            temp.temperature = float.Parse(paramet[3]);
+
+            switch (field)
+            {
+                case 1: return temp.pressure;
+                case 2: return temp.seaLevelPressure;
+                case 3: return temp.calculatedAltitude;
+                case 4: return temp.temperature;
+                default: return temp.id;
+            }
         }
-        */
+        
 
         // POST api/<controller>
         [HttpPost]
