@@ -38,7 +38,7 @@ namespace TemperatureDataAPI.Controllers
         
         // GET api/<controller>/5
         [HttpGet("{field}")]
-        public ActionResult<float> Get(int field)
+        public ActionResult<string> Get(int field)
         {
             string line;
             Temperature temp = new Temperature();
@@ -53,11 +53,15 @@ namespace TemperatureDataAPI.Controllers
 
             switch (field)
             {
-                case 1: return temp.pressure;
-                case 2: return temp.seaLevelPressure;
-                case 3: return temp.calculatedAltitude;
-                case 4: return temp.temperature;
-                default: return temp.id;
+                case 1: return "Pressure is: " + temp.pressure;
+                case 2: return "Sea Level Pressure is: " + temp.seaLevelPressure;
+                case 3: return "Calculated Altitude is: " + temp.calculatedAltitude;
+                case 4: return "Temperature is: " + temp.temperature;
+                default: return "Temperature Object Returns: " + "Pressure: " +
+                        temp.pressure + " Sea Level Pressure: " +
+                        temp.seaLevelPressure + " Calculated Altitude: " +
+                        temp.calculatedAltitude + " Temperature is: " +
+                        temp.temperature ;
             }
         }
         
