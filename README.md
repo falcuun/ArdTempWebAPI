@@ -21,7 +21,7 @@ BMP180 Sensor and Arduino Monitor with ability to save Serial data to a file.
  	-  Download Arduino Serial Monitor from: [https://github.com/falcuun/SimpleArduinoMonitor](https://github.com/falcuun/SimpleArduinoMonitor)
  	-  Download This Web API 
  - Once you have all Downloaded:.
- 	- Plug Your Board to USB port 
+ 	- Plug Your Board to USB port.
  	- Compile and Upload the Arduino Sketch to your board
  	- Run the Arduino Monitor, Select COM name and Baud Rate, hit CONNECT and then READ
  	- Check the "WRITE ONE LINE" box and hit "SAVE TO FILE" button and chose your text file
