@@ -3,7 +3,7 @@ This service is intended as a test and practice of dotnet Core Web APIs.
 It is just an example of how you can stream the temperature from your Arduino to the web for people to know exactly what the
 temperature is like in your city. 
 
-Follow all the steps from below, please;
+Follow all the steps from below, please:
 
 In order to have the software functioning as intended you will need an Arduino Uno micro controller,
 BMP180 Sensor and Arduino Monitor with ability to save Serial data to a file.
