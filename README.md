@@ -19,7 +19,7 @@ BMP180 Sensor and Arduino Monitor with ability to save Serial data to a file.
  - Once you obtain all needed hardware and software:
  	-  Download the Arduino code from: [https://github.com/falcuun/TemperatureMonitoringArduino](https://github.com/falcuun/TemperatureMonitoringArduino)
  	-  Download Arduino Serial Monitor from: [https://github.com/falcuun/SimpleArduinoMonitor](https://github.com/falcuun/SimpleArduinoMonitor)
- 	-  Download This Web API 
+ 	-  Download This Web API.  
  - Once you have all Downloaded:.
  	- Plug Your Board to USB port.
  	- Compile and Upload the Arduino Sketch to your board
