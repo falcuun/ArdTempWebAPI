@@ -29,7 +29,7 @@ BMP180 Sensor and Arduino Monitor with ability to save Serial data to a file.
  	- Start the API Service and type in the file path of the file you're saving your data to
  	- Make a GET Request with your browser to [https://localhost:5001/api/temperatures](https://localhost:5001/api/temperatures)
  		- Get Your Temperature data back at you in JSON Format.
-
+ 
      
       
     
